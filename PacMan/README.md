@@ -72,7 +72,7 @@ Contributions are welcome! To get started:
 Feel free to add new features, improve AI, or enhance graphics.
 
 ## Credits
-- Developed by [Your Name]
+- Developed by [Vishal_Kumar]
 - Inspired by the original Pac-Man arcade game
 
 Enjoy playing Pac-Man!
